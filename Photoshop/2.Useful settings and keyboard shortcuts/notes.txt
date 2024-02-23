@@ -1,1 +1,8 @@
 Edit -> Preferences -> General remove Export Clipboard
+Добре е да се дават имена на Layer по време на работа
+Edit -> Define BUsh Preset -  Четкара става на форма като житотно, което сме избрали и го има в Layer
+Window -> Brush Settings -> Scattering - фон от фигурки
+Ctrl + K -> Settings
+https://photoshoptrainingchannel.com/wp-content/uploads/2013/01/Photoshop-2020-Keyboard-Shortcuts.jpg
+Когато сме си оформили всички настройки, Window -> Workspace -> New Workspace, по този начин ги запазваме. 
+На отворена снимка с Ctrl + L,се появява Levels,редактиране на тоналността.
